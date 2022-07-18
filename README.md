@@ -22,7 +22,7 @@ A simple centipede game coded in c++ language and using Object Oriented Programm
       <img src = "https://github.com/SameetAsadullah/Centipede-Game/blob/main/extras/menu-ss.png" alt = "" width="900px"/>
     </div>
     
-4) You can press `Right Arrow Key` to select any option from the menu. You can use `Arrow Keys` to move the centipede and `Space Bar` to fire:
+4) You can press `Right Arrow Key` to select any option from the menu. You can use `Arrow Keys` to move the centipede and `Space Bar` to fire bullets:
     <div align="center">
       <img src = "https://github.com/SameetAsadullah/Centipede-Game/blob/main/extras/gameplay-ss-1.png" alt = "" width="900px"/>
     </div>
